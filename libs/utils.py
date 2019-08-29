@@ -100,7 +100,7 @@ def PrintBanner():
     banner = """
         
       
-                 xBowtie SPAM TOOL
+                     SPAM TOOL
              ---------------------------
            
       
