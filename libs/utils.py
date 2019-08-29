@@ -98,13 +98,13 @@ def PrintStatus(message, *argv):
 
 def PrintBanner():
     banner = """
-        _.._
-      .' .-'`
-     /  /         THT Instagram Spam Script'i
-     |  |         ---------------------------
-     \  '.___.;      Yapımcı: Hichigo THT
-      '._  _.'
-         ``
+        
+      
+                 xBowtie SPAM TOOL
+             ---------------------------
+           
+      
+         
     """
     print(banner)
     pass
